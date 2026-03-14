@@ -1,0 +1,4 @@
+Buatlah sebuah sistem yang mendukung operasional kafetaria IT Del. Aku mau sistem ini punya fitur pendaftaran pelanggannya, daftar pesanan juga banyaknya pesanan. 
+Masalah utamanya itu sering terjadi salah mencatat nota manual. 
+Jadi nanti alurnya dimulai dari input data menu kafetaria, lalu sistem menghitung harganya otomatis, dan terakhir cetak struknya untuk pelanggan.
+Aku mau kamu ngerjainnya dengan bahasa pemrograman C , dengan sistem dijalankan nantinya di laptop saja (windows) menggunakan VS Code. Lalu kerjakan sesuai layaknya mahasiswa semester awal yaa!
